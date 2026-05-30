@@ -39,12 +39,6 @@ The dashboard helps stakeholders make data-driven decisions through KPI tracking
 <img width="1115" height="624" alt="Screenshot 2026-05-27 193922" src="https://github.com/user-attachments/assets/02d4858a-a35c-45d1-9a93-1fba0611e20a" />
 
 
-## Files Included
-
-* Power BI Dashboard (.pbix)
-* Dataset File
-* Documentation Report
-* Dashboard Screenshots
 
 ## Author
 **R Venkataramana**
